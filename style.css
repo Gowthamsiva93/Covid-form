@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZwx49ZhZni_pyS-w-KPb18ChRwyLehS2ztA&usqp=CAU);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.menu {
+  overflow: hidden;
+  padding: 10px;
+  margin: 20px;
+}
+
+.menu a {
+  float: left;
+  color: rgb(0, 8, 8);
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  font-style: italic;
+}
+.body {
+  margin: 30px;
+  padding: 30px;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: large;
+}
